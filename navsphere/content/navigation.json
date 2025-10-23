@@ -13,7 +13,16 @@
       "id": "9",
       "title": "管理面板",
       "icon": "Palette",
-      "items": [],
+      "items": [
+        {
+          "id": "site_1761221408815_44sra94fu",
+          "title": "宝塔",
+          "href": "https://www.bt.cn",
+          "description": "访问 www.bt.cn",
+          "icon": "/assets/favicon_1761221392787.png",
+          "enabled": true
+        }
+      ],
       "subCategories": [],
       "description": "",
       "enabled": true
