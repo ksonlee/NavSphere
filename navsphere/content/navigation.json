@@ -20,8 +20,8 @@
     },
     {
       "id": "1735265493940",
-      "title": "开发者工具包",
-      "icon": "Box",
+      "title": "Web服务器",
+      "icon": "Globe",
       "description": "开发者工具，工具包",
       "enabled": true,
       "items": [],
