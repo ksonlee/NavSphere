@@ -257,8 +257,8 @@
     },
     {
       "id": "8",
-      "title": "素材资源",
-      "icon": "linecons-thumbs-up",
+      "title": "服务厂商",
+      "icon": "Cloud",
       "items": [],
       "subCategories": [
         {
@@ -285,7 +285,9 @@
           "description": "",
           "items": []
         }
-      ]
+      ],
+      "description": "",
+      "enabled": true
     }
   ]
 }
