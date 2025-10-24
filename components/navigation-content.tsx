@@ -142,10 +142,10 @@ export function NavigationContent({ navigationData, siteData }: NavigationConten
             <div className="flex items-center gap-1">
               <ModeToggle />
               <Link
-                href="https://github.com/tianyaxiang/NavSphere"
+                href="https://ssl.wiki.hi.cn"
                 target="_blank"
                 rel="noopener noreferrer"
-                aria-label="访问 GitHub 仓库"
+                aria-label="购买SSL证书"
               >
                 <Button
                   variant="ghost"
@@ -155,11 +155,12 @@ export function NavigationContent({ navigationData, siteData }: NavigationConten
                   <Github className="h-5 w-5" />
                 </Button>
               </Link>
+              
               <Link
-                href="https://github.com/tianyaxiang/navsphere-extension"
+                href="https://extension.wiki.hi.cn"
                 target="_blank"
                 rel="noopener noreferrer"
-                aria-label="下载浏览器插件"
+                aria-label="浏览器插件"
               >
                 <Button
                   variant="ghost"
@@ -169,11 +170,12 @@ export function NavigationContent({ navigationData, siteData }: NavigationConten
                   <Puzzle className="h-5 w-5" />
                 </Button>
               </Link>
+              
               <Link
-                href="https://mp.weixin.qq.com/s/90LUmKilfLZfc5L63Ej3Sg"
+                href="https://doc.wiki.hi.cn"
                 target="_blank"
                 rel="noopener noreferrer"
-                aria-label="查看帮助文档"
+                aria-label="帮助中心"
               >
                 <Button
                   variant="ghost"
@@ -183,6 +185,7 @@ export function NavigationContent({ navigationData, siteData }: NavigationConten
                   <HelpCircle className="h-5 w-5" />
                 </Button>
               </Link>
+              
               <Button
                 variant="ghost"
                 size="icon"
